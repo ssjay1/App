@@ -1,0 +1,23 @@
+#input{
+left:1%;
+width:49%;
+height:80%;
+
+}
+
+#result{
+width:49%;
+height:400px;
+    border-style: dashed;
+
+}
+
+.container{
+    border-style: solid;
+}
+
+#json{
+    resize: none;
+    height: 500px;
+    width: 340px;
+}
