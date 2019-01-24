@@ -1,0 +1,30 @@
+div {
+    border: solid 1px;
+    margin-left: 9px;
+    margin-right: 35px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+body {
+    border: solid 1px;
+    margin-left: 4em;
+    margin-right: 40em;
+
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    
+}
+
+.row {
+    background-color: gray;
+}
+
+.selectrow {
+    background-color: darkgray;
+}
